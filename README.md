@@ -6,7 +6,7 @@ reproducibility on some of out web-based services.
 
 This presentation was given at the [Building reproducible workflows
 for earth sciences](https://www.ecmwf.int/en/learning/workshops/building-reproducible-workflows)
-workshop, and is based on the work onf Marchos Hermida, Manuel Martins
+workshop, and is based on the work of Marcos Hermida, Manuel Martins
 and Carlos Valiente.
 
 
