@@ -1,0 +1,6 @@
+FROM python:3.7.1-stretch
+
+RUN set -eux \
+    && pip install numpy==1.17.1
+
+COPY ./myapp.py /code/myapp.py

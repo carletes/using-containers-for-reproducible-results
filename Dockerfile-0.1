@@ -1,0 +1,6 @@
+FROM python
+
+RUN set -eux \
+    && pip install numpy
+
+COPY ./myapp.py /code/myapp.py
